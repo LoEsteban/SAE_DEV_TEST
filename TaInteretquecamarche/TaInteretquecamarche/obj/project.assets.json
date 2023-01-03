@@ -102,23 +102,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\lobrye\\.nuget\\packages\\": {},
+    "C:\\Users\\weigelr\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lobrye\\source\\repos\\LoEsteban\\SAE_DEV_TEST\\TaInteretquecamarche\\TaInteretquecamarche\\TaInteretquecamarche.csproj",
+      "projectUniqueName": "C:\\Users\\weigelr\\source\\repos\\SAE_DEV_TEST\\TaInteretquecamarche\\TaInteretquecamarche\\TaInteretquecamarche.csproj",
       "projectName": "TaInteretquecamarche",
-      "projectPath": "C:\\Users\\lobrye\\source\\repos\\LoEsteban\\SAE_DEV_TEST\\TaInteretquecamarche\\TaInteretquecamarche\\TaInteretquecamarche.csproj",
-      "packagesPath": "C:\\Users\\lobrye\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lobrye\\source\\repos\\LoEsteban\\SAE_DEV_TEST\\TaInteretquecamarche\\TaInteretquecamarche\\obj\\",
+      "projectPath": "C:\\Users\\weigelr\\source\\repos\\SAE_DEV_TEST\\TaInteretquecamarche\\TaInteretquecamarche\\TaInteretquecamarche.csproj",
+      "packagesPath": "C:\\Users\\weigelr\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\weigelr\\source\\repos\\SAE_DEV_TEST\\TaInteretquecamarche\\TaInteretquecamarche\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\lobrye\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\weigelr\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
