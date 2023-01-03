@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lobrye\\source\\repos\\LoEsteban\\SAE_DEV_TEST\\TaInteretquecamarche\\TaInteretquecamarche\\TaInteretquecamarche.csproj": {}
+    "P:\\SAE 1.01-2\\TaInteretquecamarche\\TaInteretquecamarche\\TaInteretquecamarche.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lobrye\\source\\repos\\LoEsteban\\SAE_DEV_TEST\\TaInteretquecamarche\\TaInteretquecamarche\\TaInteretquecamarche.csproj": {
+    "P:\\SAE 1.01-2\\TaInteretquecamarche\\TaInteretquecamarche\\TaInteretquecamarche.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lobrye\\source\\repos\\LoEsteban\\SAE_DEV_TEST\\TaInteretquecamarche\\TaInteretquecamarche\\TaInteretquecamarche.csproj",
+        "projectUniqueName": "P:\\SAE 1.01-2\\TaInteretquecamarche\\TaInteretquecamarche\\TaInteretquecamarche.csproj",
         "projectName": "TaInteretquecamarche",
-        "projectPath": "C:\\Users\\lobrye\\source\\repos\\LoEsteban\\SAE_DEV_TEST\\TaInteretquecamarche\\TaInteretquecamarche\\TaInteretquecamarche.csproj",
-        "packagesPath": "C:\\Users\\lobrye\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lobrye\\source\\repos\\LoEsteban\\SAE_DEV_TEST\\TaInteretquecamarche\\TaInteretquecamarche\\obj\\",
+        "projectPath": "P:\\SAE 1.01-2\\TaInteretquecamarche\\TaInteretquecamarche\\TaInteretquecamarche.csproj",
+        "packagesPath": "C:\\Users\\charrina\\.nuget\\packages\\",
+        "outputPath": "P:\\SAE 1.01-2\\TaInteretquecamarche\\TaInteretquecamarche\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\lobrye\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\charrina\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],

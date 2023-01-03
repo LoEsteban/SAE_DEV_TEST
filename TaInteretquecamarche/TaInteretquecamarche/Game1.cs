@@ -42,7 +42,7 @@ namespace TaInteretquecamarche
 
         protected override void Draw(GameTime gameTime)
         {
-            GraphicsDevice.Clear(Color.YellowGreen);
+            GraphicsDevice.Clear(Color.Gray);
 
             // TODO: Add your drawing code here
 
